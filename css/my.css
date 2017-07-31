@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    overflow: auto;
+    height: 100px;
+    margin: auto;
+    width: 500px;
+    top: 100px;
+    position: relative;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr {
+    border: 1px solid black;
+}
